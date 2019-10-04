@@ -1,0 +1,12 @@
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.deps.json
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.csprojAssemblyReference.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.AssemblyInfoInputs.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.AssemblyInfo.cs
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.pdb
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.pdb
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.csproj.CopyComplete
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Infra\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Infra.pdb

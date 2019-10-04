@@ -1,0 +1,30 @@
+<p *ngIf="!usuarios"><em>Loading...</em></p>
+
+<div class="container">
+  <h3 class="text-center">Relatório de Usuários Cadastrados</h3>
+  <div class="jumbotron">
+    <input type="text" class="form-control" [(ngModel)]="userFilter.nome" placeholder="Filtro">
+    <table class='table table-striped' *ngIf="usuarios">
+      <thead>
+        <tr>
+          <th>Nome</th>
+          <th>Data de Nascimento</th>
+          <th>Email</th>
+          <th>Sexo</th>
+          <th>Ativo</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let usuario of usuarios | filterBy: filtro ">              
+          <td>{{ usuario.nome }}</td>
+          <td>{{ usuario.dataNascimento | date: 'dd/MM/yyyy' }}</td>
+          <td>{{ usuario.email }}</td>
+          <td>{{ usuario.sexoId == 2 ? "Masculino" : "Feminino"  }}</td>
+          <td>{{ usuario.ativo ? "Sim" : "Não" }}</td>
+          <td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

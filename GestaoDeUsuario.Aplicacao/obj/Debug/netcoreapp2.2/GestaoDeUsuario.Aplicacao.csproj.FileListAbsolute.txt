@@ -1,0 +1,12 @@
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.deps.json
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.pdb
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.pdb
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.csprojAssemblyReference.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.AssemblyInfoInputs.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.AssemblyInfo.cs
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.csproj.CopyComplete
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Aplicacao\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Aplicacao.pdb

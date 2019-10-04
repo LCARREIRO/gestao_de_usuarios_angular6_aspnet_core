@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "GestaoDeUsuario.Aplicacao/1.0.0": {
+        "dependencies": {
+          "GestaoDeUsuario.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "GestaoDeUsuario.Aplicacao.dll": {}
+        }
+      },
+      "GestaoDeUsuario.Dominio/1.0.0": {
+        "runtime": {
+          "GestaoDeUsuario.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestaoDeUsuario.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestaoDeUsuario.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

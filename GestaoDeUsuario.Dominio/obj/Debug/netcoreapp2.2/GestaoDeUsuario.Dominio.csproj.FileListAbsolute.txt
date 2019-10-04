@@ -1,0 +1,9 @@
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.deps.json
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\bin\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.pdb
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.csprojAssemblyReference.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.AssemblyInfo.cs
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.dll
+C:\Projetos\GestaoDeUsuario\GestaoDeUsuario.Dominio\obj\Debug\netcoreapp2.2\GestaoDeUsuario.Dominio.pdb
